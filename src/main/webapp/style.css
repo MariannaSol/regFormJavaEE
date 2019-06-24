@@ -1,0 +1,15 @@
+.block1 {
+    width: 200px;
+    background: #ccc;
+    padding: 5px 20px 5px 5px;
+    border: solid 1px black;
+    float: left;
+}
+
+.block4 {
+    width: 407px;
+    background: #ccc;
+    padding: 5px 5px 5px 5px;
+    border: solid 1px black;
+    float: left;
+}
